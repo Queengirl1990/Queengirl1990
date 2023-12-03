@@ -2,10 +2,10 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/Kvtf.gif"  />
+
 
 ###
-
+<img align="right" height="150" src="https://i.gifer.com/Kvtf.gif"  />
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
