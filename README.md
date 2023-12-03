@@ -74,31 +74,6 @@
 </p>
 
 
-<div align="center">
-  <img height="150" src="https://u-static.fotor.com/images/text-to-image/result/PRO-859fd35affc04fe3b95e46ad696ae2ab.jpg"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-</div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 
 
 
