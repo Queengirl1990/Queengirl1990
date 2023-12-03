@@ -5,7 +5,7 @@
 
 
 ###
-<img align="right" height="150" src="https://i.gifer.com/Kvtf.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/cd/6f/24/cd6f240d6467e74b1452991a638adf99.gif"  />
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
