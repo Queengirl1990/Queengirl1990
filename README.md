@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [BookiesList](https://github.com/Queengirl1990/bookies_list)
 
-- 🌱 I’m currently learning **Dart/Flutter, Firebase, Kotlin and Swift**
+- 🌱 I’m currently learning **Dart/Flutter, Firebase, Kotlin, and Swift**
 
 - 💬 Ask me about **Figma and Canva**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anjabrühl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjabrühl" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anja-br%C3%BChl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjabrühl" height="30" width="40" /></a>
 <a href="https://instagram.com/bookies_list" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bookies_list" height="30" width="40" /></a>
 <a href="https://discord.gg/anja5985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anja5985" height="30" width="40" /></a>
 </p>
@@ -79,7 +79,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
 </div>
-
 
 ###
 
