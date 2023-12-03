@@ -79,6 +79,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Queengirl1990/Queengirl1990/output/snake.svg" alt="Snake animation" />
 
 ###
