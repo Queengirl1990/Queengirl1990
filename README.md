@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Queengirl</h1>
-<h3 align="center">Call me Anja, and I'm an App Developer from Germany</h3>
+<h3 align="center">Call me Anja, and I'm an App Developer and Designer from Germany</h3>
 
 <!-- Add the following line to insert the GIF -->
 <img align="left" height="150" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.webp" alt="Queengirl Gif"/>
@@ -117,9 +117,15 @@ BookiesList https://www.instagram.com/bookies_list/
 LexisBest https://www.instagram.com/lexis.best/
 
 ## Hobbies:
+🎮 Gaming
 
+📖 Writing
 In my spare time, I enjoy writing fantasy and romantic stories. If you are interested, you can find more information here: 
 Mandy Jolien Hard https://www.instagram.com/mj.hard.autorin/
+
+🎵 Listening to music
+
+🐈‍⬛ My pets
 
 ###
 
