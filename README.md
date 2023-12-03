@@ -102,8 +102,8 @@
 ## 🚀 About Me
 I am currently in full-time training to become a Flutter app developer.
 You can find my projects on Instagram under the following links
-BookiesList https://www.instagram.com/bookies_list/
-LexisBest https://www.instagram.com/lexis.best/
+- 📚 [BookiesList](https://www.instagram.com/bookies_list/)
+- 🐈 [LexisBest](https://www.instagram.com/lexis.best/)
 
 ## Hobbies:
 🎮 Gaming
