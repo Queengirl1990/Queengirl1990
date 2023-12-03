@@ -110,5 +110,18 @@
 
 ###
 
+## 🚀 About Me
+I am currently in full-time training to become a Flutter app developer.
+You can find my projects on Instagram under the following links
+BookiesList https://www.instagram.com/bookies_list/
+LexisBest https://www.instagram.com/lexis.best/
+
+##Hobby:
+
+In my spare time I enjoy writing fantasy and romantic stories. If you are interested you can find more information here: 
+Mandy Jolien Hard https://www.instagram.com/mj.hard.autorin/
+
+###
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bookieslist"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bookieslist" /></a></p><br><br>
