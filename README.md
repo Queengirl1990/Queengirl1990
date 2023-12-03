@@ -2,7 +2,7 @@
 <h3 align="center">Call me Anja, and I'm an App Developer from Germany</h3>
 
 <!-- Add the following line to insert the GIF -->
-<img align="right" height="150" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.webp" alt="Queengirl Gif"/>
+<img align="left" height="150" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.webp" alt="Queengirl Gif"/>
 
 - 🔭 I’m currently working on [BookiesList](https://github.com/Queengirl1990/bookies_list)
 
