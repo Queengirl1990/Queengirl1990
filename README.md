@@ -1,5 +1,6 @@
-<h2 align="left">Hi 👋! My name is Queengirl, </h2>
-  <h1call me Anja and I'm a App Developer, from Germany</h1>
+<h1 align="center">Hi 👋, I'm Queengirl</h1>
+<h3 align="center">me Anja and I'm a App Developer, from Germany</h3>
+
 
 ###
 
