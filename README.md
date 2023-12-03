@@ -76,3 +76,11 @@
 </div>
 
 ###
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AndiBruehl/AndiBruehl/output/snake.svg" alt="Snake animation" />
+
+###
