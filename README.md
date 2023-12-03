@@ -110,7 +110,7 @@ You can find my projects on Instagram under the following links
 
 📖 Writing
 In my spare time, I enjoy writing fantasy and romantic stories. If you are interested, you can find more information here: 
-Mandy Jolien Hard https://www.instagram.com/mj.hard.autorin/
+- 📖 [Mandy Jolien Hard] (https://www.instagram.com/mj.hard.autorin/)
 
 🎵 Listening to music
 
