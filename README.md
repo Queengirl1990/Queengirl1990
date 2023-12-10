@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **bookieslist.app@gmail.com**
   
-- You can find group projects here [SASCreators](https://github.com/SASCreators)
+- You can find group projects here [SASCreators](https://github.com/ASACreators)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
