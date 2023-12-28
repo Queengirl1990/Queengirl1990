@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [BookiesList](https://github.com/Queengirl1990/bookies_list)
 
-- 🌱 I’m currently learning **Dart/Flutter, Firebase, Webflow and more
+- 🌱 I’m currently learning **Dart/Flutter, Firebase, HTML, CSS and more
 
 - 💬 Ask me about **Figma and Canva**
 
