@@ -108,6 +108,11 @@ You can find my projects on Instagram under the following links
 - 📚 [BookiesList](https://www.instagram.com/bookies_list/)
 - 🐈 [LexisBest](https://www.instagram.com/lexis.best/)
 
+## My certificates 
+- [JavaScript](https://www.udemy.com/certificate/UC-d0099ae5-13c4-462f-9b21-f43853813057/)
+- [HTML, CSS](https://www.udemy.com/certificate/UC-d0e7b77e-cdbb-4c09-932c-5fdb70b0cfa4/)
+- [Figma](https://www.udemy.com/certificate/UC-b128bf2a-bd09-4fac-b518-115cc7c2dc0b/)
+
 ## Hobbies:
 🎮 Gaming
 
