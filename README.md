@@ -110,6 +110,8 @@ You can find my projects on Instagram under the following links
 - [JavaScript](https://www.udemy.com/certificate/UC-d0099ae5-13c4-462f-9b21-f43853813057/)
 - [HTML, CSS](https://www.udemy.com/certificate/UC-d0e7b77e-cdbb-4c09-932c-5fdb70b0cfa4/)
 - [Figma](https://www.udemy.com/certificate/UC-b128bf2a-bd09-4fac-b518-115cc7c2dc0b/)
+- [Flutter](https://www.udemy.com/certificate/UC-784bdef7-6c3c-4a3e-b715-8f5905bb5b08/)
+- [Frontend](https://www.udemy.com/certificate/UC-e665ec87-0c04-48ef-a9d5-848ab22b29da/)  
 
 ## Hobbies:
 🎮 Gaming
