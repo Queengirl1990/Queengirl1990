@@ -11,8 +11,6 @@
 - 💬 Ask me about **Figma and Canva**
 
 - 📫 How to reach me: **bookieslist.app@gmail.com**
-  
-- You can find group projects here [ASACreators](https://github.com/SASCreators)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
